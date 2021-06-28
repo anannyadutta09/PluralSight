@@ -1,4 +1,4 @@
-
+package pluralsight.chapter1;
 public class TestFlight {
 
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package pluralsight.chapter1;
 
 public class Flight {
 	int passengers;
